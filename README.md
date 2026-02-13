@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1iuad6mMm4OkQuktyWLeyNL
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+4.run as direct :
+   `https://cute-otter-2f13e3.netlify.app/`
